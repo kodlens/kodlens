@@ -28,8 +28,6 @@
   <img height="40" align="center" alt="Etienne-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!-- <img align="right" height="180em" alt="Etienne-yoda" src="https://giphy.com/embed/RbDKaczqWovIugyJmW"> -->
 
-  <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
-  
 </div>
   
 </br>
