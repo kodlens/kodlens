@@ -9,12 +9,6 @@
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=etiennewayne&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
-
- <div>
-  <a href="https://github.com/etiennewayne">
-   <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=etiennewayne&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=etiennewayne&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
  
  ## Skills
 <div style="display: inline_block"><br>
