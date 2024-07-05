@@ -1,4 +1,5 @@
-## Hi, I am Etienne Wayne! 
+## Hi, I am Etienne Wayne!
+
 </br>
 
  <div>
@@ -9,8 +10,13 @@
  
  ## Skills
 <div style="display: inline_block"><br>
+
+<img height="40" align="center" alt="Etienne-laravel" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
  <img height="40" align="center" alt="Etienne-c-sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
  <img height="40" align="center" alt="Etienne-Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="40" align="center" alt="Etienne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +31,8 @@
   
 </br>
 
-## Contact 
+## Contact
+
 <div> 
   <a href="https://www.linkedin.com/in/etiennewayne" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/etiennewayne" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
