@@ -15,6 +15,8 @@
   <img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=etiennewayne&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </div>
 
+<br>
+<br>
 ## Programming Language
 <div style="display: inline_block"><br>
 
