@@ -1,4 +1,4 @@
-## Hi, I am Etienne Wayne!
+## Hi, Welcome to KodLens!
 
 </br>
 
