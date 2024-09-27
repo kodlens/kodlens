@@ -73,7 +73,4 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/kodlens/kodlens/blob/main/github-contribution-grid-snake.svg)
- 
-
 </div>
