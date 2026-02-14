@@ -66,7 +66,7 @@
 ## Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/kodlens" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/etienne-wayne-amparado-0895a3352" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!-- <a href="https://twitter.com/kodlens" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <!-- <a href="https://facebook.com/kodlens" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> -->
   <a href="https://instagram.com/kodlens" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
