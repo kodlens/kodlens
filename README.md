@@ -2,11 +2,13 @@
 
 </br>
 
- <div>
+ <!-- <div>
   <a href="https://github.com/kodlens">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodlens&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kodlens&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
+</div> -->
+
+Hello! I’m Etienne Wayne, a software developer who loves turning ideas into reality with code. I enjoy working on full-stack applications, exploring new technologies. Here on GitHub, you’ll find some of my personal projects, experiments, and contributions that showcase my curiosity and love for software development.
  
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=kodlens&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
